@@ -49,4 +49,4 @@ bench() {
 
 }
 
-addModule "bench (simple Bench @akamaras)"
+
